@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(143, 143, 143);
+    margin: 10px;
+    padding: 0; 
+}
+
+h1{
+    color:rgb(207, 252, 252);
+}
+h2{
+    color: palegoldenrod;
+}
+
+.Portada{
+    background-color: #C66565;
+    border-radius: 5px;
+    padding: 10px;
+}
+.Hobbies{
+    background-color: #5880BE;
+    border-radius: 5px;
+    padding: 10px;
+}
+.Peliculas{
+    background-color: #C66565;
+    border-radius: 5px;
+    padding: 10px;
+}
+.Contacto{
+    background-color: #5880BE;
+    border-radius: 5px;
+    padding: 10px;
+}
